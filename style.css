@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#uiOptionsDiv {
+  /* display: none; */
+  padding: 8px;
+  min-width: 240px;
+}
+#fullExtentBtn,
+.bookmarkBtn {
+  margin: 2px;
+  width: 100%;
+}
